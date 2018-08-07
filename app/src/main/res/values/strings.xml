@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CMED Task 01</string>
+    <string name="net_work_not_available">Network Not Available!</string>
+    <string name="action_connect">Connect</string>
+</resources>
